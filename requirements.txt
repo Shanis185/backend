@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+torch
+transformers
+pillow
+easyocr
+pytesseract
+scipy
+huggingface-hub
+python-multipart
+sacremoses
+protobuf
